@@ -1,5 +1,6 @@
 <div align="center">
-
+<h3>在fabric
+/patterns目录里面，有所有写好要求的工具集</h3>
 <img src="./images/fabric-logo-gif.gif" alt="fabriclogo" width="400" height="400"/>
 
 # `fabric`
